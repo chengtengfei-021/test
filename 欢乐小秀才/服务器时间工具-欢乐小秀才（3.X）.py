@@ -60,6 +60,3 @@ while True:
 ####################——————tak制作  vol.606——————####################
 
 
-git remote add origin https://{chengtengfei-021}:{cheng199421}@github.com/chengtengfei-021/test.git
-
-https://github.com/chengtengfei-021/test.git
